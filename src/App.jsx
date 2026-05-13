@@ -6,6 +6,7 @@ const App = () => {
     { id: 2, label: "Rendimiento", value: 90, unit: "%", trend: "down" },
     { id: 3, label: "Productividad", value: 75, unit: "%", trend: "up" },
     { id: 4, label: "Satisfacción", value: 85, unit: "%", trend: "up" },
+    { id: 5, label: "Rotación", value: 10, unit: "%", trend: "down" },
   ];
 
   return (
